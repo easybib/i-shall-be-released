@@ -2,7 +2,7 @@
   "name": "i-shall-be-released",
   "version": "1.0.0",
   "description": "Semantic release script for writing-tools projects, with automated publishing to our npm registry",
-  "main": "index.js",
+  "main": "lib/index.js",
   "repository": "git@github.com:easybib/i-shall-be-released.git",
   "author": "Avi Fox-Rosen <avi.foxrosen@imagineeasy.com>",
   "license": "MIT",
